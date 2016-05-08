@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 737cd84e4aef340deb16a7b4f43132c2
+timeCreated: 1462659863
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - audioSource: {instanceID: 0}
+  - tom: {fileID: 8300000, guid: ba4dff34961a74011860185adcc5c68d, type: 3}
+  - snare: {fileID: 8300000, guid: 3f472955e7a2d4c4c981f58ed3de02d5, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
